@@ -1,6 +1,6 @@
 # Goodreads_eda
 #### For this project I did not concentrate more on the modeling part as the results were not very accurate and it would need more work in terms of feature engineering and label encoding. <br>
-####However, I was able to generate insights from our exploratory data analysis and below are some of the important insights:<br><br>
+#### However, I was able to generate insights from our exploratory data analysis and below are some of the important insights:<br><br>
 • I observed that there is a relationship between the average rating and ratings count, as number of ratings increase, rating of books seems to move towards 4 and as number decreases, the rating becomes sparse.<br>
 • I observed that readers prefer books with moderate range of pages (around 200 – 400) as highest number of ratings are given in that range.<br>
 • I also discovered that authors whose books are highly rated are Stephen King, P.G. Wodehouse, Rumiko Takahashi, Orson Scott Card, Agatha Christie, etc.considering the fact that their work has been present for a quite a while, spanning decades.<br>
