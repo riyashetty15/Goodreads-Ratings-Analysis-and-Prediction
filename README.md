@@ -1,4 +1,4 @@
-# Goodreads_eda
+# Exploratory Data Analysis - GoodReads Dataset
 #### I was able to generate insights from our exploratory data analysis and below are some of the important insights:<br><br>
 1. I observed that there is a relationship between the average rating and rating count, as several ratings increase, the rating of books seems to move towards 4, and as the number decreases, the rating becomes sparse.<br>
 2. I observed that readers prefer books with a moderate range of pages (around 200 – 400) as the highest number of ratings are given in that range.<br>
