@@ -1,4 +1,4 @@
-# Goodreads Ratings Analysis and Prediction: Unveiling Trends and Building a Predictive Model
+# Goodreads Ratings Analysis and Prediction
 ### Overview
 In this project, I explored the Goodreads dataset to uncover patterns in book ratings, reader behavior, and publication trends. I derived meaningful insights by combining Exploratory Data Analysis (EDA), Univariate Analysis, Principal Component Analysis (PCA), and Linear Regression and built a model to predict book ratings. I used the `ggplot2` library to create visualizations that helped me understand the data better and communicate the results effectively.
 <br>
