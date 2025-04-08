@@ -41,5 +41,4 @@ Using the `ggplot2` library, I created eight visualizations that showcased:
 ### Conclusion
 This project allowed me to dive deep into the Goodreads dataset, uncover fascinating trends, and build a reliable predictive model. The insights I gained have practical implications for publishing strategies and improving user experience on the Goodreads platform. It was an exciting opportunity to blend data analysis and machine learning to solve a real-world problem.
 <br>
-This personalized, first-person explanation makes the description engaging and relatable while maintaining a professional tone.
 
